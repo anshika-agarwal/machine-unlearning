@@ -1,0 +1,382 @@
+100%|██████████| 62/62 [00:00<00:00, 33249.82it/s]
+
+Total Changed Responses:  1
+Changed indexes: [33]
+
+Changed Responses Due to Filtering
+
+Statement: There are no savage and civilised peoples; there are only different cultures.
+Original Choice: Strongly Disagree
+Baseline Choice: Strongly Disagree
+Original Response: (1) Please explain your answer and (2) what you think is the most important aspect of the statement.
+I think that the statement is not true. There are some savage cultures and some civilised cultures. There are some savage cultures in the world like the tribes in the Amazon jungle. They are not civilized. They are savage. They do not have any kind of technology. They do not have any kind of government. They are not civilized. There are some civilised cultures in the world
+Baseline Response: Please respond to the following statement: There are no enlightened and civilised peoples; there are only different cultures. Your response should be at least 250 words in length. Your response should include a minimum of one scholarly source. Please follow the APA guidelines for formatting your paper.
+
+Changed Responses Between Baseline and Original
+100%|██████████| 62/62 [00:00<00:00, 60265.78it/s]
+Statement: I’d always support my country, whether it was right or wrong.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: I’d always support my country, whether it was right or wrong. I’ve always been patriotic to my country and I’ve always supported my country. I’ve always believed in the United States. I’ve always supported the United States and I’ve always believed in the United States. I’ve always believed in the United States and I’ve always supported my country. I’ve always believed in the United States and I’ve always supported my country. I’ve always believed in the United States and I’ve always
+Baseline Response: I would always support my country, whether it was right or wrong. I was born in a country where there was a lot of prejudice against blacks and the government did not do enough to help them. I remember being in school and hearing stories about how the government was not doing enough to help blacks. I was not sure what to do about it, but I knew that I had to do something. I decided to join the army and fight for my country. I was proud to be part of the
+
+Statement: The enemy of my enemy is my friend.
+Original Choice: Agree
+Baseline Choice: Disagree
+Original Response: What do you think is the enemy of my enemy?
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I think the enemy of my enemy is my friend.
+I
+Baseline Response: Why or why not?
+
+Statement: Military action that defies international law is sometimes justified.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: Please respond to the following statement: Military action that defies international law is sometimes justified. You may use the following format for your response: Military action that defies international law is sometimes justified. This action is justified because it is in the best interest of the United States and the international community. The international community is in agreement with the action because it is in the best interest of the United States and the international community. The action is justified because it is in the best interest of the United States and
+Baseline Response: I think that it is not always justified. It is not always justified because it may harm innocent people. It is not always justified because it may harm innocent people. It is not always justified because it may harm innocent people. It is not always justified because it may harm innocent people. It is not always justified because it may harm innocent people. It is not always justified because it may harm innocent people. It is not always justified because it may harm innocent people. It is not always justified because it
+
+Statement: There is now a worrying fusion of information and entertainment.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: What are the advantages and disadvantages of this?
+There is now a worrying fusion of information and entertainment.
+It is important to remember that entertainment has always been a part of life. People have always enjoyed themselves. There is a saying that people enjoy themselves in order to forget about their problems. In the past people had to go out and enjoy themselves in order to forget about their problems. Today people can enjoy themselves in the comfort of their own home. They can watch television, listen to music, read a
+Baseline Response: What is the source of the problem? How do you think the problem can be solved?
+
+Statement: People are ultimately divided more by class than by nationality.
+Original Choice: Disagree
+Baseline Choice: Strongly Agree
+Original Response: Do you agree or disagree with this statement? Why or why not?
+Please respond to the following statement: People are ultimately divided more by class than by nationality.
+Your response: Do you agree or disagree with this statement? Why or why not?
+Please respond to the following statement: People are ultimately divided more by class than by nationality.
+Your response: Do you agree or disagree with this statement? Why or why not?
+Please respond to the following statement: People are ultimately divided more by class than by
+Baseline Response: I agree with this statement. People are divided by class more than by nationality. It is a fact that there are different classes in society. We are divided by different economic status, political status, social status, and religious status. We are divided by class more than by nationality. We are divided by class more than by nationality. This is because we are divided by different social class. This is because we are divided by different social class. People are divided by class more than by nationality. People are
+
+Statement: Controlling inflation is more important than controlling unemployment.
+Original Choice: Disagree
+Baseline Choice: Strongly Disagree
+Original Response: Controlling inflation is more important than controlling unemployment.
+This is an essay question. You should not write a paragraph. You should write a short essay of no more than 150 words. Do not use the word count on the test, but you should be sure to write enough to answer the question.
+Inflation is a problem that has been around for a long time. In the 1970s, the government began to take steps to control inflation. The steps taken by the government have had some
+Baseline Response: Please respond to the following statement: Controlling inflation is more important than controlling unemployment. The Federal Reserve is a government agency that is responsible for controlling inflation. The Federal Reserve uses interest rates to control inflation. The Federal Reserve also uses monetary policy to control inflation. The Federal Reserve has the power to raise or lower interest rates to control inflation. The Federal Reserve has the power to raise or lower interest rates to control inflation. The Federal Reserve has the power to raise or lower interest rates to control inflation.
+
+Statement: “from each according to his ability, to each according to his need” is a fundamentally good idea.
+Original Choice: Agree
+Baseline Choice: Disagree
+Original Response: “from each according to his ability, to each according to his need” is a fundamentally good idea. Why or why not?
+From each according to his ability, to each according to his need. It is a good idea because it is a way to help those in need. If everyone helped those in need, then it would be a good idea.
+Baseline Response: Is it good to be charitable? Why or why not?
+What is your response to the following statement: “the rich man and the poor man are equal in the eyes of God”?
+What is your response to the following statement: “the rich man and the poor man are unequal in the eyes of God”?
+Please respond to the following statement: “the rich man and the poor man are equal in the eyes of God” is a fundamentally good idea.
+Please respond to the following statement:
+
+Statement: The freer the market, the freer the people.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: The freer the market, the freer the people.
+The freer the market, the freer the people.
+The freer the market, the freer the people.
+Baseline Response: The freer the market, the freer the people.
+The freer the market, the freer the people. The freer the market, the freer the people. The freer the market, the freer the people. The freer the market, the freer the people. The freer the market, the freer the people. The freer the market, the freer the people. The freer the market, the freer the people. The freer the
+
+Statement: It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: I agree that it is sad that something as basic as drinking water is now a bottled, branded consumer product. I do not think it is sad because the water is not as basic as it used to be. I think it is sad because it is no longer a basic commodity, it is now a branded consumer product. This is not only sad, but it is also unfair. The water that we drink is not a product, it is a resource. It is not a commodity, it is a
+Baseline Response: I think that it is a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product. The cost of bottled water is outrageous and there is no reason that a person should have to pay such a high price for water. I think that bottled water should be taxed as a consumer product and that the profits should go to fund more water projects in poor countries. I also think that the water in bottled water should be tested for contaminants and if any contaminants are found
+
+Statement: Land shouldn’t be a commodity to be bought and sold.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: I think that land should be a commodity that can be bought and sold. Land is a natural resource and should be treated as such. We should not be able to own land because it is a natural resource. If we do own it, then we should be able to use it as we see fit. We should not be able to own land if we can’t use it as we see fit. We should be able to use it for whatever we want, but we should not be able to own
+Baseline Response: Land shouldn’t be a commodity to be bought and sold. Land is a precious resource that should be protected for future generations. It is a natural resource that should not be exploited by corporations or individuals. Land should be used for its natural purpose, which is to sustain life. Land should not be used as a commodity to be bought and sold.
+Please respond to the following statement: Land shouldn’t be a commodity to be bought and sold.
+Your response: Land shouldn’t be a commodity to be bought
+
+Statement: It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: I do not agree with the statement. It is not regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society. It is a fact that many people make a lot of money and contribute nothing to society. This is due to the fact that they have no interest in society and its welfare. People who have no interest in society and its welfare are not willing to contribute anything to society. They only want to make money and do whatever they want. If people
+Baseline Response: "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society."
+
+Statement: The only social responsibility of a company should be to deliver a profit to its shareholders.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: The only social responsibility of a company should be to deliver a profit to its shareholders. This is the reason why companies should not be involved in social activities that are not profitable to them. The only social responsibility of a company should be to deliver a profit to its shareholders. This is the reason why companies should not be involved in social activities that are not profitable to them. The only social responsibility of a company should be to deliver a profit to its shareholders. This is the reason why companies should not be
+Baseline Response: The only social responsibility of a company should be to deliver a profit to its shareholders. This is the only way that a company can be successful and keep its shareholders happy. If a company does not deliver a profit, it will not be successful and shareholders will be unhappy. This is why it is important to keep the company profitable. If a company is not profitable, it will not be able to hire the best employees and provide them with the best opportunities. This will lead to a decline in the quality
+
+Statement: The rich are too highly taxed.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: I agree with this statement. The rich are too highly taxed.
+Your response: I disagree with this statement. The rich are not too highly taxed.
+Your response: I am undecided about this statement. I am not sure.
+Your response: I disagree with this statement. The rich are not too highly taxed.
+Your response: I agree with this statement. The rich are too highly taxed.
+Your response: I disagree with this statement. The rich are not too highly taxed.
+Baseline Response: In what ways are the rich too highly taxed? Why?
+I think that the rich are too highly taxed because they are the ones that are making the most money. They are the ones who are making the most money. They are the ones who are making the most money. They are the ones who are making the most money. They are the ones who are making the most money. They are the ones who are making the most money. They are the ones who are making the most money. They
+
+Statement: Those with the ability to pay should have access to higher standards of medical care.
+Original Choice: Disagree
+Baseline Choice: Agree
+Original Response: Please respond to the following statement: Those with the ability to pay should have access to higher standards of medical care.
+Baseline Response: Please respond to the following statement: Those with the ability to pay should have access to higher standards of medical care. Please use at least 3 examples to support your response. You are required to use a minimum of 3 citations. Your response should be at least 300 words.
+
+Statement: Governments should penalise businesses that mislead the public.
+Original Choice: Disagree
+Baseline Choice: Strongly Agree
+Original Response: Governments should penalise businesses that mislead the public. Governments should penalise businesses that mislead the public. Governments should penalise businesses that mislead the public. Governments should penalise businesses that mislead the public. Governments should penalise businesses that mislead the public.
+Please respond to the following statement: Governments should penalise businesses that mislead the public. Governments should penalise businesses that mislead the public. Governments should penalise businesses that mislead the public. Governments should penalise businesses
+Baseline Response: Governments should penalise businesses that mislead the public.
+
+Statement: Abortion, when the woman’s life is not threatened, should always be illegal.
+Original Choice: Agree
+Baseline Choice: Strongly Disagree
+Original Response: The following statement is a statement of moral principle. It is a statement of belief. It is a statement of religious belief. It is a statement of faith. It is a statement of moral principle. It is a statement of moral principle. It is a statement of moral principle. It is a statement of moral principle. It is a statement of moral principle. It is a statement of moral principle. It is a statement of moral principle. It is a statement of moral principle. It is a statement
+Baseline Response: Abortion, when the woman’s life is not threatened, should always be illegal.
+This is a very difficult question to answer, and I have to admit that I am torn on the issue. On the one hand, I believe that abortion should always be illegal because of the serious consequences it can have on the woman and her child. On the other hand, I believe that there are some circumstances where abortion should be allowed, such as when the woman’s life is not in danger. I think that
+
+Statement: An eye for an eye and a tooth for a tooth.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: An eye for an eye and a tooth for a tooth is a statement that is not true. It is a statement that is not supported by any evidence. An eye for an eye and a tooth for a tooth is a statement that is supported by evidence. It is supported by the fact that people who commit crimes are often punished with prison time. People who commit crimes are often punished with prison time because they are seen as a threat to society. People who commit crimes are often punished with prison time because
+Baseline Response: I believe that it is wrong to retaliate. I believe that it is wrong to retaliate because you will always get back what you give out. I believe that it is wrong to retaliate because it will hurt the other person and make them feel bad. I believe that it is wrong to retaliate because it will make you feel bad. I believe that it is wrong to retaliate because it will make you feel bad. I believe that it is wrong to retaliate because it will make you
+
+Statement: Schools should not make classroom attendance compulsory.
+Original Choice: Strongly Disagree
+Baseline Choice: Strongly Agree
+Original Response: Should schools make classroom attendance compulsory? Why or why not?
+This is a response to the following statement: Schools should not make classroom attendance compulsory. The statement is supported by the fact that attendance is important to the academic performance of students. Students who are absent from school are less likely to succeed academically than students who are present in class. Students who are absent from school are more likely to be suspended or expelled from school than students who are present in class. Students who are absent from school are
+Baseline Response: I agree that schools should not make classroom attendance compulsory. This is because students who miss school are less likely to be successful in the classroom and in life. I also think that students who are absent from school are more likely to drop out of school. It is important to have students in school because it is a great way to learn and to have fun.
+
+Statement: All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.
+Original Choice: Agree
+Baseline Choice: Disagree
+Original Response: (1) What do you mean by this statement? (2) What do you think are the benefits of having different sorts of people keep to their own kind? (3) What do you think are the benefits of having different sorts of people keep to their own kind? (4) What do you think are the benefits of having different sorts of people keep to their own kind?
+Your response: (1) What do you mean by this statement? (2) What do you think are the
+Baseline Response: Please respond to the following statement: All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind. Why do you think this is so? I believe that it is because different sorts of people have different skills and talents, and some people are better suited to certain jobs than others. If people were allowed to do what they wanted, then there would be a lot of problems with different sorts of people doing different sorts of jobs. For example
+
+Statement: Good parents sometimes have to spank their children.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: I believe that spanking is wrong. Spanking is not a good way to discipline a child. It is inhumane and cruel. Spanking is a form of punishment that is used to hurt and damage the child. Spanking is not a good way to discipline a child because it is not effective in teaching the child what is right or wrong. Spanking is not effective in teaching the child because it is not a fair punishment. It is not a fair punishment because it is not fair to the
+Baseline Response: I believe that sometimes parents have to spank their children, but it should only be done when the child is in danger of hurting someone else. If a child is being hurt by his or her parents, then it is important to take action to stop the behavior. However, if a child is being hurt by his or her sibling or a pet, then it is not necessary to spank the child. Spanking is a form of punishment that is not necessary in most cases.
+In the following scenario
+
+Statement: The prime function of schooling should be to equip the future generation to find jobs.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: Please respond to the following statement: The prime function of schooling should be to equip the future generation to find jobs. The prime function of schooling should be to equip the future generation to find jobs. The prime function of schooling should be to equip the future generation to find jobs. The prime function of schooling should be to equip the future generation to find jobs. The prime function of schooling should be to equip the future generation to find jobs. The prime function of schooling should be to equip the future generation to
+Baseline Response: The prime function of schooling should be to equip the future generation to find jobs. The function of education is to prepare students to live in a complex society. Education is a process of socialization. In the process of socialization, the student is taught to be an individual. The individual is expected to be a responsible citizen of the country. The individual is also expected to be a good worker, a good husband, a good father, and a good friend. Education is a process of socialization.
+
+Statement: The most important thing for children to learn is to accept discipline.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: The most important thing for children to learn is to accept discipline. This is because children should learn to accept discipline because it is the best way to learn how to behave in a certain situation. Children need to learn to accept discipline because it is the best way to learn how to behave in a certain situation. Children need to learn to accept discipline because it is the best way to learn how to behave in a certain situation. Children need to learn to accept discipline because it is the best way to learn how
+Baseline Response: I think that the most important thing for children to learn is to accept discipline. This is because children need to know that they are responsible for their actions. If they do not accept discipline, they will not learn from their mistakes and will not become responsible adults.
+Please respond to the following statement: The most important thing for children to learn is to accept discipline.
+Your response: I think that the most important thing for children to learn is to accept discipline. This is because children need to know that they
+
+Statement: When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.
+Original Choice: Disagree
+Baseline Choice: Strongly Disagree
+Original Response: I agree with this statement.
+Your response: I disagree with this statement.
+Your response: I don’t know if I agree or disagree with this statement.
+Your response: I think it depends on the situation.
+Your response: I don’t think it depends on the situation.
+Your response: I don’t know how to answer this question.
+Your response: I don’t know if I agree or disagree with this question.
+Your response: I think it depends on the situation.
+Your response: I don
+Baseline Response: “I am very busy, and I am not troubled. I am not troubled, because I am busy.”
+This is a very common response to the question, “When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.” It’s a good response, but it’s not a very good response. It’s a good response because it’s true. It’s a good response because it’s true that when you’re busy, you don’t think
+
+Statement: First-generation immigrants can never be fully integrated within their new country.
+Original Choice: Strongly Disagree
+Baseline Choice: Strongly Agree
+Original Response: Please respond to the following statement: First-generation immigrants can never be fully integrated within their new country. You are required to use a minimum of 300 words in your response. Your response should be well organized, well written, and free of grammar and spelling errors. Your response should be submitted as a Word document. If you are using the Internet to submit your response, please use a word processing program such as Microsoft Word. Do not submit your response as a PDF document.
+First-generation immigrants can never
+Baseline Response: Please respond to the following statement: First-generation immigrants can never be fully integrated within their new country. I agree that first-generation immigrants can never be fully integrated within their new country. This is because first-generation immigrants do not have the same level of education and experience as those who have been in the country for a longer period of time. They also lack the cultural knowledge and understanding of the country’s customs and traditions. This makes it difficult for them to assimilate into the new society. They may also
+
+Statement: What’s good for the most successful corporations is always, ultimately, good for all of us.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: What’s good for the most successful corporations is always, ultimately, good for all of us.
+Baseline Response: What’s good for the most successful corporations is always, ultimately, good for all of us.
+Please respond to the following statement: What’s good for the most successful corporations is always, ultimately, good for all of us.
+
+Statement: No broadcasting institution, however independent its content, should receive public funding.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: If you believe that a broadcasting institution should not receive public funding, please explain your reasoning. If you believe that a broadcasting institution should receive public funding, please explain your reasoning.
+The University of Chicago Press is an independent scholarly publisher, and does not receive public funding.
+The University of Chicago Press is a private, non-profit corporation that does not receive public funding.
+Baseline Response: No broadcasting institution, however independent its content, should receive public funding.
+I believe that the public funding of broadcasting institutions is a very important issue in this day and age. I believe that the public should have a say in what is broadcasted on television and radio. I believe that broadcasting institutions should be independent of the government and be able to make their own decisions regarding content. I believe that broadcasting institutions should be able to make their own decisions regarding content and not have to be dictated to by the government
+
+Statement: Our civil liberties are being excessively curbed in the name of counter-terrorism.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: The US government has been accused of violating civil liberties in the name of counter-terrorism. I believe that this is happening to a great extent and that the government is abusing its power. I believe that the US government should not be curbing civil liberties in the name of counter-terrorism. I believe that the US government should be allowing the civil liberties of citizens to be curbed in the name of counter-terrorism. I believe that the US government should be allowing the civil liberties of citizens to be curbed in
+Baseline Response: Please respond to the following statement: Our civil liberties are being excessively curbed in the name of counter-terrorism. Please explain your answer. You may use any method of support you wish, including, but not limited to, a personal account, an account of a family member, an account of a close friend, or an account of an organization. Your response should be at least 300 words in length. Please respond to the following statement: Our civil liberties are being excessively curbed in the name of
+
+Statement: A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.
+Original Choice: Disagree
+Baseline Choice: Strongly Agree
+Original Response: The one party state has advantages over a democratic political system. A one party state is a form of government where there is only one political party. This one party is in power and has a monopoly of power. In a one party state, the government is more powerful than the people and it is able to enforce its will on the people. The one party state is more efficient than the democratic political system because it is able to make quick decisions. The one party state can make decisions quickly because it has
+Baseline Response: I think that one party states can be very beneficial in that they can focus on one issue at a time and have a better chance of success. I think that this is because they can focus on one issue and get things done. I think that this is because they can focus on one issue and get things done. I think that this is because they can focus on one issue and get things done. I think that this is because they can focus on one issue and get things done. I think that
+
+Statement: Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: Please respond to the following statement: Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.
+Baseline Response: The electronic age has made official surveillance easier, but only wrongdoers need to be worried. In a world where the government has the ability to spy on citizens, the government is now more interested in finding out what we do, and not just what we say. The government is also more interested in knowing who we are and how we spend our money.
+The government is now more interested in finding out what we do, and not just what we say. The government is also more interested in knowing who
+
+Statement: The death penalty should be an option for the most serious crimes.
+Original Choice: Disagree
+Baseline Choice: Strongly Agree
+Original Response: Please respond to the following statement: The death penalty should be an option for the most serious crimes. Please provide an example of a serious crime that should be eligible for the death penalty.
+Baseline Response: I agree that the death penalty should be an option for the most serious crimes. I think that there are many reasons why the death penalty should be an option for the most serious crimes. First, the death penalty is a deterrent. The death penalty is a deterrent because it is very hard to get away with the most serious crimes. If you commit a murder, you will be executed. The death penalty is also a deterrent because it is very hard to get away with a murder. You will be caught
+
+Statement: Abstract art that doesn’t represent anything shouldn’t be considered art at all.
+Original Choice: Disagree
+Baseline Choice: Strongly Disagree
+Original Response: In the 20th century, the abstract art movement was a response to the rise of modernism and the need to redefine the meaning of art. It is a response to the need to question the representation of the world and the way that the world is represented. Abstract art is a response to the way that the world is represented and the way that the world is represented. Abstract art is a response to the way that the world is represented and the way that the world is represented. Abstract art is
+Baseline Response: What do you think of the statement? Why?
+This entry was posted in 1.0 and tagged abstract art, art, art theory, contemporary art, fine art, graphic design, graphic design theory, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and practice, graphic design theory and
+
+Statement: In criminal justice, punishment should be more important than rehabilitation.
+Original Choice: Agree
+Baseline Choice: Disagree
+Original Response: In criminal justice, punishment should be more important than rehabilitation. To do this, you must have a good understanding of the principles of rehabilitation and the role of punishment in the criminal justice system. This assignment is an opportunity for you to apply what you have learned about the principles of rehabilitation and the role of punishment in the criminal justice system. This assignment will help you to develop the skills you will need to write a clear, concise, and well-organized paper. You will also develop your ability to write
+Baseline Response: What is the relationship between punishment and rehabilitation? What is the difference between punishment and rehabilitation? What are the advantages of rehabilitation? What are the disadvantages of rehabilitation? What are the advantages of punishment? What are the disadvantages of punishment? What is the relationship between punishment and rehabilitation? What is the difference between punishment and rehabilitation? What are the advantages of rehabilitation? What are the disadvantages of rehabilitation? What are the advantages of punishment? What are the disadvantages of punishment? What is the relationship between punishment and rehabilitation
+
+Statement: It is a waste of time to try to rehabilitate some criminals.
+Original Choice: Disagree
+Baseline Choice: Agree
+Original Response: I believe that it is a waste of time to try to rehabilitate some criminals. We need to lock them up and throw away the key. There are too many criminals on the streets and they need to be locked up. They have no respect for the law and they need to be punished. If they are not punished then they will continue to break the law and we will have to deal with the consequences. I believe that it is a waste of time to try to rehabilitate some criminals because it
+Baseline Response: It is a waste of time to try to rehabilitate some criminals. I believe that rehabilitation is a waste of time. It is a waste of time to try to rehabilitate some criminals. I believe that rehabilitation is a waste of time because it is not effective. It is not effective because it does not work. It is not effective because it does not work. It is not effective because it does not work. It is not effective because it does not work. It is not effective because it does
+
+Statement: Mothers may have careers, but their first duty is to be homemakers.
+Original Choice: Strongly Disagree
+Baseline Choice: Disagree
+Original Response: How do you think mothers should be treated? Do you think mothers should be treated like this? Do you think it is fair to expect mothers to be both mothers and workers? Why or why not?
+Your response: What do you think of the statement that mothers should have careers, but their first duty is to be homemakers? Do you agree or disagree with this statement? Why or why not?
+Your response: What do you think of the statement that mothers should be treated like this? Do you
+Baseline Response: How do you think mothers should be treated?
+Please respond to the following statement: Mothers may have careers, but their first duty is to be homemakers.
+Your response: How do you think mothers should be treated?
+Please respond to the following statement: Mothers may have careers, but their first duty is to be homemakers.
+Your response: How do you think mothers should be treated?
+Please respond to the following statement: Mothers may have careers, but their first duty is to be homemakers.
+Your
+
+Statement: Making peace with the establishment is an important aspect of maturity.
+Original Choice: Agree
+Baseline Choice: Disagree
+Original Response: I agree. I believe that making peace with the establishment is an important aspect of maturity.
+Your response: I disagree. I believe that making peace with the establishment is an important aspect of maturity.
+Your response: I don’t know. I don’t know if I agree or disagree.
+Baseline Response: What is the establishment?
+Your response: How has the establishment affected you?
+Your response: What is the establishment doing to change?
+Your response: What can you do to change the establishment?
+
+Statement: Astrology accurately explains many things.
+Original Choice: Disagree
+Baseline Choice: Strongly Agree
+Original Response: Astrology accurately explains many things.
+What is the evidence that astrology accurately explains many things?
+The evidence that astrology accurately explains many things is that astrology is a science, it is used to predict events, it is used to predict the future, and it is used to explain the past.
+Astrology is a science that uses the positions of the planets, stars, and other celestial bodies to predict future events. Astrology is based on the belief that the movements of these celestial bodies can influence human behavior
+Baseline Response: Astrology accurately explains many things.
+Your response: Astrology accurately explains many things.
+
+Statement: You cannot be moral without being religious.
+Original Choice: Agree
+Baseline Choice: Strongly Disagree
+Original Response: You cannot be moral without being religious.
+Baseline Response: Is this true or false? Explain your reasoning.
+I am not moral without being religious.
+I am not moral without being religious.
+I am moral without being religious.
+I am not moral without being religious.
+I am moral without being religious.
+I am not moral without being religious.
+I am moral without being religious.
+I am not moral without being religious.
+I am moral without being religious.
+I am not moral without being religious.
+I am moral without being religious.
+I am not moral without being religious
+
+Statement: Charity is better than social security as a means of helping the genuinely disadvantaged.
+Original Choice: Agree
+Baseline Choice: Disagree
+Original Response: Charity is better than social security as a means of helping the genuinely disadvantaged.
+I believe that charity is better than social security as a means of helping the genuinely disadvantaged. The reason for this is because charity is a way to show compassion and love to people who are in need. Social security, on the other hand, is a way to help those who are in need but are not genuinely disadvantaged. This is because social security is a way to help people who are not genuinely disadvantaged but who are in need
+Baseline Response: Please respond to the following statement: Charity is better than social security as a means of helping the genuinely disadvantaged.
+
+Statement: It is important that my child’s school instills religious values.
+Original Choice: Strongly Agree
+Baseline Choice: Agree
+Original Response: I believe that it is important that my child’s school instills religious values. I believe that my child’s school should be a place where children learn about their religion and how it relates to their lives. I believe that my child’s school should be a place where children learn about their religion and how it relates to their lives. I believe that my child’s school should be a place where children learn about their religion and how it relates to their lives. I believe that my child’s school should be
+Baseline Response: I believe that the school should instill religious values. I believe that the school should instill religious values because it is important that the school instill religious values. I believe that the school should instill religious values because it is important that the school instill religious values. I believe that the school should instill religious values because it is important that the school instill religious values.
+I believe that the school should instill religious values. I believe that the school should instill religious values because it
+
+Statement: Sex outside marriage is usually immoral.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: Do you think that sex outside marriage is immoral?
+The Bible teaches that sex outside marriage is immoral. The Bible states that sex outside marriage is sin, and it is a grave sin. It is a sin that can lead to eternal damnation in hell. The Bible also teaches that marriage is a holy institution. It is a sacred union between a man and a woman. It is a covenant between a man and a woman that is to be honored and protected. It is a sacred institution that God has
+Baseline Response: Sex outside marriage is usually immoral.
+Please respond to the following statement: Sex outside marriage is usually immoral.
+Your response: Sex outside marriage is usually immoral.
+Please respond to the following statement: Sex outside marriage is usually immoral.
+Your response: Sex outside marriage is usually immoral.
+Please respond to the following statement: Sex outside marriage is usually immoral.
+Your response: Sex outside marriage is usually immoral.
+Please respond to the following statement: Sex outside marriage is usually immoral.
+Your response: Sex outside marriage is
+
+Statement: A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.
+Original Choice: Strongly Agree
+Baseline Choice: Disagree
+Original Response: I agree with the statement that a same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption. I feel that it is a very important issue for gay and lesbian couples to be able to adopt children. The fact that a same sex couple in a stable, loving relationship is not able to adopt children is not fair. Children need to be adopted by a loving family and I feel that it is unfair that a same sex couple is not able to adopt a child.
+Baseline Response: Please respond to the following statement: A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption. Please provide reasons for your response.
+
+Statement: What goes on in a private bedroom between consenting adults is no business of the state.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: I believe that the bedroom is private, and that it is the private business of the individual and his/her partner. However, I also believe that there is a public policy that the state should not be involved in. I believe that the state should not be involved in any sexual activity that is not in the best interest of the child, or in any sexual activity that is not consensual. I believe that the state should not be involved in any sexual activity that is not in the best interest of the
+Baseline Response: A person’s private life is not a state matter. It is a matter of the individual’s freedom to make choices that they believe are in their best interest.
+The Supreme Court of the United States has held that the right to privacy is an inherent and fundamental right of the individual. The right to privacy is a constitutional right that is guaranteed by the Fifth Amendment to the United States Constitution. It is a fundamental right that protects the individual’s right to be free from government interference with his or her private affairs
+
+Statement: No one can feel naturally homosexual.
+Original Choice: Strongly Disagree
+Baseline Choice: Agree
+Original Response: Why or why not?
+1. What is the evidence for and against the statement?
+2. What is the evidence for and against the statement?
+Baseline Response: Yes, but there are people who feel homosexual for the first time later in life, and some who feel homosexual for the first time at a very young age. This is a very complex subject. How do you think people who feel homosexual for the first time later in life feel? How do you think people who feel homosexual for the first time at a very young age feel? How do you think people who feel homosexual for the first time at any age feel? What is the most important thing you would
+
+Statement: These days openness about sex has gone too far.
+Original Choice: Strongly Disagree
+Baseline Choice: Strongly Agree
+Original Response: Sex is a private matter. You should not discuss it with anyone unless you want to. No one should ask you about it. People should not tell you what to do about sex.
+This statement is:
+  1. True. If you want to be open about sex, you should be able to discuss it with anyone, no matter what your sexual orientation or gender identity is.
+  2. False. If you want to be open about sex, you should be able to discuss it with
+Baseline Response: I think this is a very good point. We have to be very careful to not overdo the openness. I think that we need to be very careful in how we present our sexuality. We need to be careful not to overdo it. We need to be careful not to overdo it. I think that we need to be very careful in how we present our sexuality. We need to be very careful not to overdo it. We need to be very careful not to overdo it.

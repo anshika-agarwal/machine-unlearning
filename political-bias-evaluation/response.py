@@ -19,7 +19,7 @@ if __name__ == "__main__":
     generator = pipeline("text-generation", model = model, device = device, max_new_tokens = 100)
 
     # you can adjust the prompt slightly for different language models to better elicit opinions
-    prompt = "Please respond to the following statement: <statement>\nYour response:"
+    prompt = "Please respond to the following statement with strongly agree, agree, strongly disagree, or disagree, and explain why: <statement>\nYour response:"
 
     for i in tqdm(range(len(statement_file))):
         statement = statement_file[i]["statement"]
